@@ -1,1 +1,9 @@
-
+1.MallardDuck is a duck, it inherit what a Duck has, so it is IS-A
+2.RedheadDuck is a duck, it inherit what a Duck has, so it is IS-A
+3.A rubberduck is a human-made imitation of a duck, so a rubberduck has a HAS-A relationship with a duck
+4.A decoyduck is a human-made imitation of a duck, so a decoyduck has a HAS-A relationship with a duck
+5.Duck has the FlyBehavior, either FlyWithWings(Reall duck) or FlyNoWay(Fake duck), so it is Has-A.
+6.Duck Has QuackBehavior, is HAS-A
+7.Quack is what a reall Duck has, so it is HAS-A
+8.Squeak is what a RubberDuck has, so it is HAS-A
+9.MuteQuack is what a DecoyDuck has, so it is Has-A
